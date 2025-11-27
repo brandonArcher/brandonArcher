@@ -1,6 +1,7 @@
 <h3 align="left">
  Welcome to My Profile!
-
+</h3>
+<p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonArcher&label=Profile%20views&color=0e75b6&style=flat" alt="brandonArcher" /> </p>
 
 
